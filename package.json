@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "browserify": "^13.1.0",
+    "opn": "^4.0.2"
+  },
+  "scripts": {
+    "repro": "node demo --full-paths",
+    "working": "node demo"
+  }
+}
